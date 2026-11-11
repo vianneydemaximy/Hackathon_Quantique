@@ -1,0 +1,21 @@
+{
+  "cfg": {
+    "pool": "QEB+GS",
+    "k_max": 5,
+    "alpha": 0.5,
+    "beta": 0.5,
+    "tetris": false,
+    "eps": 0.001,
+    "plateau": 1e-06,
+    "prune_tol": 0.01
+  },
+  "score": -0.2776924094476817,
+  "run_tag": "autotune-v1",
+  "weights": {
+    "W_CNOT": 1.0,
+    "W_TIME": 0.2,
+    "W_HW": 0.0,
+    "W_DEPTH": 0.0,
+    "SAFETY": 0.5
+  }
+}
