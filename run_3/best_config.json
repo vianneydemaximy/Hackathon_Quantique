@@ -1,0 +1,23 @@
+{
+  "cfg": {
+    "pool": "QEB",
+    "k_max": 5,
+    "alpha": 0.5,
+    "beta": 0.5,
+    "tetris": false,
+    "eps": 0.0005,
+    "plateau": 0.0,
+    "prune_tol": 0.02,
+    "escape": 0
+  },
+  "score": 0.11549147510670157,
+  "run_tag": "autotune-v6",
+  "mapping": "jordan_wigner",
+  "weights": {
+    "W_CNOT": 1.0,
+    "W_TIME": 0.2,
+    "W_HW": 0.0,
+    "W_DEPTH": 0.0,
+    "SAFETY": 0.25
+  }
+}
